@@ -1,0 +1,2 @@
+include ':myqq', ':rxPermissions'
+rootProject.name='ImClent'
